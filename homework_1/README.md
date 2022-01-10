@@ -1,0 +1,3 @@
+Project Description: In this assignment, you will be required to write an ADT that represents a playlist of audio filessimilar to the ones used by audio playback programs such as iTunes and Windows Media Player.Your ADT will be responsible for maintaining simple information about each audio file (namely thetitle, artist, and length in minutes and seconds) as well as the correct ordering of the audio files inthe list. The ADT should also provide a series of operations for manipulating the playlist includingadding and removing audio files, displaying the contents of the list, and finding all songs that wereperformed by a particular artist
+ 
+ Implementation: Java Array
